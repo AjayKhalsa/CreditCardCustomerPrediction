@@ -5,7 +5,12 @@
 
   <h2 align="center">Customer Credit Card Prediction</h2>
 
-<!-- ABOUT THE PROJECT -->
+# Team Members
+* 08 Sanket Chaudhary
+* 10 Amit Chhabria
+* 29 Ajay Singh Khalsa
+<!-- PROJECT DESCRIPTION -->
+
 ## 1. Project Description
 ### 1.1 Problem Context
 A bank manager is uncomfortable with more and more customers leaving their credit card services. They would really appreciate it if someone could predict who will be affected so that they can proactively go to the customer to provide them with better services and turn customer decisions in the opposite direction.
