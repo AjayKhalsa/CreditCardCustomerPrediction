@@ -66,4 +66,15 @@ The goal of the SVM algorithm is to create the best line or decision boundary th
 
 SVM chooses the extreme points/vectors that help in creating the hyperplane. These extreme cases are called as support vectors, and hence algorithm is termed as Support Vector Machine.
 
+## 5.Evaluation Metrics for classification
+ROC curves or Receiver Operating Characteristic curves illustrate the performance of a binary classifier. It is created by plotting the true positive rate (TPR) (or recall) against the false positive rate (FPR).
 
+ROC curves on the X-axis show a classifier's False Positive Rate so that would go from 0 to 1.0, and on the Y-axis they show a classifier's True Positive Rate so that will also go from 0 to 1.0.
+
+ROC curves are very help with understanding the balance between true-positive rate and false positive rate.
+
+<p float="left">
+  <img src="images/4.png" width="400" />
+  <img src="images/5.png" width="400" /> 
+</p>
+Random Forest has the best model compared to the other with all metrics score (precision, recall, f1, accuracy) has shown at least 85% accuracy.
