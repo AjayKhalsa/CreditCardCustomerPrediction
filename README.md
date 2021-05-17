@@ -66,4 +66,3 @@ The goal of the SVM algorithm is to create the best line or decision boundary th
 
 SVM chooses the extreme points/vectors that help in creating the hyperplane. These extreme cases are called as support vectors, and hence algorithm is termed as Support Vector Machine.
 
-
