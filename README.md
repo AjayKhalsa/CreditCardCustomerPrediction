@@ -23,7 +23,7 @@ This data set consists of 10,000 customers mentioning their age, salary, status 
 
 We have only 16,07% of customers who have canceled. Therefore, it is a little difficult to train our model to predict customer turnover.
 
-
+<!-- Exploratory Data Analysis -->
 ## 2. Exploratory Data Analysis
 
 ### 2.1 Checking the frequency and unique features of all categorical variable in the data by plotting graph
