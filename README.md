@@ -48,6 +48,9 @@ We have only 16,07% of customers who have canceled. Therefore, it is a little di
 
 
 ## 1 Exploratory Data Analysis
+
+1. Checking the frequency and unique features of all categorical variable in the data by plotting graph
+2.
 <!-- GETTING STARTED -->
 ## 2 Algorithms
 
