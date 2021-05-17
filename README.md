@@ -82,4 +82,4 @@ ROC curves are very help with understanding the balance between true-positive ra
   <img src="images/4.png" width="400" />
   <img src="images/5.png" width="400" /> 
 </p>
-Random Forest has the best model compared to the other with all metrics score (precision, recall, f1, accuracy) has shown at least 85% accuracy.
+Here, Random Forest is the best model as compared to others with all metrics score (precision, recall, f1, accuracy) have shown at least 85% accuracy. Random Forest have AUC score of 99% that shows the model is learning the data well enough.
